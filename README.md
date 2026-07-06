@@ -1,8 +1,5 @@
 # 2026 机场推荐排行榜:16 家稳定翻墙机场实测(每周更新)
 
-
-[![GitHub stars](https://img.shields.io/github/stars/jichangx/2026-jichangcha-tuijian?style=flat&logo=github&color=00e676&label=Stars)](https://github.com/jichangx/2026-jichangcha-tuijian/stargazers) [![最近更新](https://img.shields.io/github/last-commit/jichangx/2026-jichangcha-tuijian?color=00b0ff&label=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0)](https://github.com/jichangx/2026-jichangcha-tuijian/commits/main) [![主站](https://img.shields.io/badge/%E4%B8%BB%E7%AB%99-jichangcha.com-00e676)](https://www.jichangcha.com/)
-
 ![2026 机场推荐排行榜](images/banner.svg)
 
 我们用统一维度实测每一家机场:**晚高峰速度(20:00-23:00)、流媒体与 AI 解锁、线路架构与真实价格**,每周复核更新,帮你避开跑路与虚标的坑。机场适合已经掌握基础翻墙知识的同学,采用 Shadowsocks、Trojan、VLESS(Reality)等专用协议,适配 Clash、Shadowrocket、v2rayN、sing-box 等多种客户端——**不是一键 VPN,但胜过 VPN**。
@@ -403,6 +400,13 @@
 **晚高峰卡怎么办?** 换冷门节点临时缓解;根治靠 IEPL/IPLC 专线——专线不经公网,晚高峰几乎不掉速。[专线科普](https://www.jichangcha.com/blog/zhuanxian-jichang-tuijian/)
 
 **ChatGPT 用不了?** 香港节点对 AI 无效,换标注 AI 解锁的新加坡/日本/美国原生 IP 节点。[AI 工具选购指南](https://www.jichangcha.com/blog/chatgpt-jichang-tuijian/)
+
+## 🔗 友情链接
+
+- [机场查主站](https://www.jichangcha.com/) —— 16 家机场横向对比 · 189 题长尾问题库 · 图文教程
+- 各机场独立测评仓库见主站[品牌库](https://www.jichangcha.com/brands/)
+
+> 欢迎机场导航、科学上网测评类站点交换友链,通过 [Telegram @wanzuanjiedian](https://t.me/wanzuanjiedian) 或本仓库 Issues 联系。
 
 ## 📌 更新与声明
 
