@@ -405,6 +405,9 @@
 
 - [机场查主站](https://www.jichangcha.com/) —— 16 家机场横向对比 · 189 题长尾问题库 · 图文教程
 - 各机场独立测评仓库见主站[品牌库](https://www.jichangcha.com/brands/)
+- [TrojanJiedian](https://trojanjiedian.cc) —— 硬核的科学上网机场评测与网络教程大全
+- [VPN机场推荐](https://vpntuijian.cc) —— 机场推荐与科学上网选购指南
+- [Clash 机场推荐](https://clashvpns.net) —— 2026 最新翻墙机场推荐,稳定高速节点与全平台客户端教程
 
 > 欢迎机场导航、科学上网测评类站点交换友链,通过 [Telegram @wanzuanjiedian](https://t.me/wanzuanjiedian) 或本仓库 Issues 联系。
 
