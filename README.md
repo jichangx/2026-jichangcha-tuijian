@@ -408,6 +408,8 @@
 - [TrojanJiedian](https://trojanjiedian.cc) —— 硬核的科学上网机场评测与网络教程大全
 - [VPN机场推荐](https://vpntuijian.cc) —— 机场推荐与科学上网选购指南
 - [Clash 机场推荐](https://clashvpns.net) —— 2026 最新翻墙机场推荐,稳定高速节点与全平台客户端教程
+- [柳如烟推荐机场](https://clashvpns.cloud) —— 稳定高速机场推荐与教程
+- [翻茄网络](https://fanfanqiang.net) —— 探索技术与生活
 
 > 欢迎机场导航、科学上网测评类站点交换友链,通过 [Telegram @wanzuanjiedian](https://t.me/wanzuanjiedian) 或本仓库 Issues 联系。
 
