@@ -410,6 +410,8 @@
 - [Clash 机场推荐](https://clashvpns.net) —— 2026 最新翻墙机场推荐,稳定高速节点与全平台客户端教程
 - [柳如烟推荐机场](https://clashvpns.cloud) —— 稳定高速机场推荐与教程
 - [翻茄网络](https://fanfanqiang.net) —— 探索技术与生活
+- [ClashHub](https://clashhub.cloud) —— 2026 优质机场推荐与 Clash / Shadowrocket / v2rayN / SingBox 全平台客户端配置与排错教程
+- [GitHub 加速指南](https://githubvpn.pro) —— 面向开发者的 GitHub 与海外技术资源访问加速教程,涵盖 git clone 加速、AI 模型下载与代理配置
 
 > 欢迎机场导航、科学上网测评类站点交换友链,通过 [Telegram @wanzuanjiedian](https://t.me/wanzuanjiedian) 或本仓库 Issues 联系。
 
