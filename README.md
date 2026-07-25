@@ -1,10 +1,13 @@
 # 2026 机场推荐排行榜:16 家稳定翻墙机场实测(每周更新)
 
+[![Telegram 频道](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha) [![互助群](https://img.shields.io/badge/%E4%BA%92%E5%8A%A9%E7%BE%A4-jichangcha__chat-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha_chat)
+
 ![2026 机场推荐排行榜](images/banner.svg)
 
 我们用统一维度实测每一家机场:**晚高峰速度(20:00-23:00)、流媒体与 AI 解锁、线路架构与真实价格**,每周复核更新,帮你避开跑路与虚标的坑。机场适合已经掌握基础翻墙知识的同学,采用 Shadowsocks、Trojan、VLESS(Reality)等专用协议,适配 Clash、Shadowrocket、v2rayN、sing-box 等多种客户端——**不是一键 VPN,但胜过 VPN**。
 
 > 🏠 完整版内容(横向对比表、189 题长尾问题库、客户端图文教程)在主站:**[jichangcha.com](https://www.jichangcha.com/)**
+> 📣 每日免费节点 / 共享 Apple ID / 跑路预警,TG 频道自动推送:**[@jichangcha](https://t.me/jichangcha)**
 > ⚠️ 订阅链接等同账号密码,切记不要泄露;发现套餐流量异常,请立即前往机场官网重置订阅。
 
 ## 📱 常用客户端下载(免费开源)
