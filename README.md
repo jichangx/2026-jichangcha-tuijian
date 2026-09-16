@@ -9,6 +9,7 @@
 > 🏠 横向对比表、每家机场的完整资料页、189 题长尾问题库在主站:**[jichangcha.com](https://www.jichangcha.com/)** · [对比总表](https://www.jichangcha.com/compare/) · [品牌库](https://www.jichangcha.com/brands/)
 > 📣 每日免费节点 / 共享 Apple ID / 跑路预警,TG 频道自动推送:**[@jichangcha](https://t.me/jichangcha)**,新手求助进 [互助群](https://t.me/jichangcha_chat)
 > ⚠️ 订阅链接等同账号密码,切记不要泄露;任何机场第一个月都建议月付试水
+> 🗂️ 四站精品聚合(机场推荐 / 免费节点 / 共享 Apple ID / 跑路预警 / 客户端教程 / 翻墙科普):**[github.com/jichangx](https://github.com/jichangx)**
 
 <a name="toc"></a>
 ## 📋 目录导航

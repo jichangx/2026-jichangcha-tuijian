@@ -212,6 +212,7 @@ const readme = `# 2026 机场推荐清单｜老牌 / 性价比 / 稳定 / 高端
 > 🏠 横向对比表、每家机场的完整资料页、189 题长尾问题库在主站:**[jichangcha.com](${links.home})** · [对比总表](${links.compare}) · [品牌库](${links.brands})
 > 📣 每日免费节点 / 共享 Apple ID / 跑路预警,TG 频道自动推送:**[@jichangcha](${links.telegram})**,新手求助进 [互助群](${links.telegramChat})
 > ⚠️ 订阅链接等同账号密码,切记不要泄露;任何机场第一个月都建议月付试水
+> 🗂️ 四站精品聚合(机场推荐 / 免费节点 / 共享 Apple ID / 跑路预警 / 客户端教程 / 翻墙科普):**[github.com/jichangx](https://github.com/jichangx)**
 
 <a name="toc"></a>
 ## 📋 目录导航
