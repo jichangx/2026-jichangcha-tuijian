@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" font-family="system-ui,-apple-system,'PingFang SC','Microsoft YaHei',sans-serif">
   <rect width="700" height="300" rx="16" fill="#1e1e1e"/>
-  <text x="24" y="36" fill="#00e676" font-size="16" font-weight="700">🎬 宇宙云流媒体 &amp; AI 解锁实测</text>
-  <text x="24" y="56" fill="#64748b" font-size="11">测试工具 RegionRestrictionCheck · 解锁状态随节点调整可能变化</text>
+  <text x="24" y="36" fill="#00e676" font-size="16" font-weight="700">🎬 宇宙云流媒体 &amp; AI 解锁示意(模拟示例)</text>
+  <text x="24" y="56" fill="#64748b" font-size="11">解锁状态随节点调整可能变化 · 非站长实测,购买前自行验证</text>
   <line x1="24" x2="676" y1="66" y2="66" stroke="#ffffff22"/>
   <rect x="28" y="84" width="118" height="76" rx="10" fill="#ffffff0a"/>
   <text x="87" y="110" fill="#e2e8f0" font-size="12.5" font-weight="600" text-anchor="middle">ChatGPT</text>
