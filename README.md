@@ -1,6 +1,6 @@
 # 2026 机场推荐清单｜老牌 / 性价比 / 稳定 / 高端(32 家,每日自动同步)
 
-![更新日期](https://img.shields.io/badge/更新-2026--09--17-00e676) ![收录](https://img.shields.io/badge/收录机场-32%20家-00b0ff) ![站长实测](https://img.shields.io/badge/站长实测-4%20家-fbbf24) [![主站](https://img.shields.io/badge/主站-jichangcha.com-00e676)](https://www.jichangcha.com/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
+![更新日期](https://img.shields.io/badge/更新-2026--09--18-00e676) ![收录](https://img.shields.io/badge/收录机场-32%20家-00b0ff) ![站长实测](https://img.shields.io/badge/站长实测-4%20家-fbbf24) [![主站](https://img.shields.io/badge/主站-jichangcha.com-00e676)](https://www.jichangcha.com/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
 
 ![2026 机场推荐清单](images/banner.svg)
 
@@ -9,7 +9,7 @@
 > 🏠 横向对比表、每家机场的完整资料页、189 题长尾问题库在主站:**[jichangcha.com](https://www.jichangcha.com/)** · [对比总表](https://www.jichangcha.com/compare/) · [品牌库](https://www.jichangcha.com/brands/)
 > 📣 每日免费节点 / 共享 Apple ID / 跑路预警,TG 频道自动推送:**[@jichangcha](https://t.me/jichangcha)**,新手求助进 [互助群](https://t.me/jichangcha_chat)
 > ⚠️ 订阅链接等同账号密码,切记不要泄露;任何机场第一个月都建议月付试水
-> 🗂️ 四站精品聚合(机场推荐 / 免费节点 / 共享 Apple ID / 跑路预警 / 客户端教程 / 翻墙科普):**[github.com/jichangx](https://github.com/jichangx)**
+> 🗂️ 机场查精品聚合(机场推荐 / 免费节点 / 共享 Apple ID / 跑路预警 / 客户端教程 / 翻墙科普):**[github.com/jichangx](https://github.com/jichangx)**
 
 <a name="toc"></a>
 ## 📋 目录导航
@@ -19,7 +19,7 @@
 - [📱 客户端与教程](#tools) · [❓ 快速问答](#faq) · [📌 更新与声明](#notes)
 
 <a name="update"></a>
-## 📢 本期更新(2026-09-17)
+## 📢 本期更新(2026-09-18)
 
 - 收录 **32 家**机场;主推 **[星岛梦](#xingdaomeng)**,次推 [飞猫云](#feimao)、[微风网络](#breezenet)、[暮光网络](#twilight)
 - 有站长实测记录的品牌(4 家):[星岛梦](#xingdaomeng)、[飞猫云](#feimao)、[微风网络](#breezenet)、[灵动云](#lingdong)
