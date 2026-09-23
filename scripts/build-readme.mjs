@@ -17,7 +17,12 @@ const FONT = `system-ui,-apple-system,'PingFang SC','Microsoft YaHei',sans-serif
 async function loadData() {
   const i = process.argv.indexOf('--local');
   if (i > 0 && process.argv[i + 1]) {
-    return JSON.parse(readFileSync(resolve(process.cwd(), process.argv[i + 1]), 'utf8'));
+    const ALLOWED_BASE = resolve(ROOT, '..');
+    const localPath = resolve(process.cwd(), process.argv[i + 1]);
+    if (localPath !== ALLOWED_BASE && !localPath.startsWith(ALLOWED_BASE + '/')) {
+      throw new Error(`--local 路径必须位于 ${ALLOWED_BASE} 目录内: ${localPath}`);
+    }
+    return JSON.parse(readFileSync(localPath, 'utf8'));
   }
   const res = await fetch(API, { signal: AbortSignal.timeout(30000), headers: { 'user-agent': 'jichangcha-readme-sync' } });
   if (!res.ok) throw new Error(`fetch ${API} -> ${res.status}`);
