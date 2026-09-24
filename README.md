@@ -1,6 +1,6 @@
 # 2026 机场推荐清单｜老牌 / 性价比 / 稳定 / 高端(32 家,每日自动同步)
 
-![更新日期](https://img.shields.io/badge/更新-2026--09--23-00e676) ![收录](https://img.shields.io/badge/收录机场-32%20家-00b0ff) ![站长实测](https://img.shields.io/badge/站长实测-4%20家-fbbf24) [![主站](https://img.shields.io/badge/主站-jichangcha.com-00e676)](https://www.jichangcha.com/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
+![更新日期](https://img.shields.io/badge/更新-2026--09--24-00e676) ![收录](https://img.shields.io/badge/收录机场-32%20家-00b0ff) ![站长实测](https://img.shields.io/badge/站长实测-4%20家-fbbf24) [![主站](https://img.shields.io/badge/主站-jichangcha.com-00e676)](https://www.jichangcha.com/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
 
 ![2026 机场推荐清单](images/banner.svg)
 
@@ -19,7 +19,7 @@
 - [📱 客户端与教程](#tools) · [❓ 快速问答](#faq) · [📌 更新与声明](#notes)
 
 <a name="update"></a>
-## 📢 本期更新(2026-09-23)
+## 📢 本期更新(2026-09-24)
 
 - 收录 **32 家**机场;主推 **[星岛梦](#xingdaomeng)**,次推 [飞猫云](#feimao)、[微风网络](#breezenet)、[暮光网络](#twilight)
 - 有站长实测记录的品牌(4 家):[星岛梦](#xingdaomeng)、[飞猫云](#feimao)、[微风网络](#breezenet)、[灵动云](#lingdong)
